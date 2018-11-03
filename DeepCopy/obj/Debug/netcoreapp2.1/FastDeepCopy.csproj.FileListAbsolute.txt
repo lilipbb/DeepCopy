@@ -1,0 +1,11 @@
+F:\CSharpProgram\FastDeepCopy\FastDeepCopy\bin\Debug\netcoreapp2.1\FastDeepCopy.deps.json
+F:\CSharpProgram\FastDeepCopy\FastDeepCopy\bin\Debug\netcoreapp2.1\FastDeepCopy.dll
+F:\CSharpProgram\FastDeepCopy\FastDeepCopy\bin\Debug\netcoreapp2.1\FastDeepCopy.pdb
+F:\CSharpProgram\FastDeepCopy\FastDeepCopy\obj\Debug\netcoreapp2.1\FastDeepCopy.csprojAssemblyReference.cache
+F:\CSharpProgram\FastDeepCopy\FastDeepCopy\obj\Debug\netcoreapp2.1\FastDeepCopy.csproj.CoreCompileInputs.cache
+F:\CSharpProgram\FastDeepCopy\FastDeepCopy\obj\Debug\netcoreapp2.1\FastDeepCopy.AssemblyInfoInputs.cache
+F:\CSharpProgram\FastDeepCopy\FastDeepCopy\obj\Debug\netcoreapp2.1\FastDeepCopy.AssemblyInfo.cs
+F:\CSharpProgram\FastDeepCopy\FastDeepCopy\obj\Debug\netcoreapp2.1\FastDeepCopy.dll
+F:\CSharpProgram\FastDeepCopy\FastDeepCopy\obj\Debug\netcoreapp2.1\FastDeepCopy.pdb
+F:\CSharpProgram\FastDeepCopy\FastDeepCopy\bin\Debug\netcoreapp2.1\FastDeepCopy.runtimeconfig.json
+F:\CSharpProgram\FastDeepCopy\FastDeepCopy\bin\Debug\netcoreapp2.1\FastDeepCopy.runtimeconfig.dev.json
