@@ -1,9 +1,0 @@
-F:\CSharpProgram\DeepCopy\DeepCopy\bin\Debug\netcoreapp2.1\DeepCopy.deps.json
-F:\CSharpProgram\DeepCopy\DeepCopy\bin\Debug\netcoreapp2.1\DeepCopy.dll
-F:\CSharpProgram\DeepCopy\DeepCopy\bin\Debug\netcoreapp2.1\DeepCopy.pdb
-F:\CSharpProgram\DeepCopy\DeepCopy\obj\Debug\netcoreapp2.1\DeepCopy.csprojAssemblyReference.cache
-F:\CSharpProgram\DeepCopy\DeepCopy\obj\Debug\netcoreapp2.1\DeepCopy.csproj.CoreCompileInputs.cache
-F:\CSharpProgram\DeepCopy\DeepCopy\obj\Debug\netcoreapp2.1\DeepCopy.AssemblyInfoInputs.cache
-F:\CSharpProgram\DeepCopy\DeepCopy\obj\Debug\netcoreapp2.1\DeepCopy.AssemblyInfo.cs
-F:\CSharpProgram\DeepCopy\DeepCopy\obj\Debug\netcoreapp2.1\DeepCopy.dll
-F:\CSharpProgram\DeepCopy\DeepCopy\obj\Debug\netcoreapp2.1\DeepCopy.pdb
